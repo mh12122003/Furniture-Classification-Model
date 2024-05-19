@@ -21,3 +21,8 @@ Image size: 227 x 227
 Optimizer: SGB  
 Learning Rate: 0.01  
 Number of Epochs: 5  
+
+
+*INSTRUCTIONS TO RUN THE JUPYTER NOTEBOOKS*
+Step 1: Unzip this file and open the folder Tasks, it can be run on any IDE (ex. Visual Studio Code) or opened on any browser after launching JupyterLab through Anaconda.
+Step 2: Each cell in these files is a block of code that has been executed. All results are already displayed, each cell can be run seperately again.
