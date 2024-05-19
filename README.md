@@ -8,16 +8,16 @@ The model is trained using the training dataset with the objective of minimizing
 
 Training Parameters  
 
-For Self-build model:  
-Batch Size: 32
-Image Size: 224 x 224
-Optimizer: Adam
-Number of Epochs: 5
-Learning Rate: 0.001
+For Self-build model:    
+Batch Size: 32  
+Image Size: 224 x 224  
+Optimizer: Adam  
+Number of Epochs: 5  
+Learning Rate: 0.001  
 
-For AlexNet model:  
-Batch Size: 32
-Image size: 227 x 227
-Optimizer: SGB
-Learning Rate: 0.01
-Number of Epochs: 5
+For AlexNet model:    
+Batch Size: 32  
+Image size: 227 x 227  
+Optimizer: SGB  
+Learning Rate: 0.01  
+Number of Epochs: 5  
